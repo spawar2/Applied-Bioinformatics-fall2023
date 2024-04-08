@@ -1,5 +1,5 @@
 # Applied-Bioinformatics-fall2023 Learning Objectives
- 
+ Bioinformatics (topics including sequence alignment algorithms, scoring matrices, microarray analysis, phylogenetic analysis, bootstrapping, tree building, secondary & tertiary structure prediction, homology modeling, and protein folding)], visualization: heat maps, volcano plots, pie charts, Sequence alignments (Margaret Dayhoff, PAM, blossom scoring matrices, global & local alignment).
 
 [Applied Bioinformatics BIOL441 Fall 2023 4 Credit](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bioinformatics-biol44)
 
