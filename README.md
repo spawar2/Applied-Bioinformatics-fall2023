@@ -18,6 +18,6 @@
 [Phylogenetic Analysis:](https://youtu.be/IMIP4la-K84)
 https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 [Link](https://youtu.be/UEsXMfE_7Rg)
-Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
+Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
 
 Applied Bioinformatics Fall 23 (2 students)
