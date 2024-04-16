@@ -21,3 +21,4 @@ https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.
 Blast, Sequence alignments (Margaret Dayhoff, PAM, Blossom scoring matrices, global & local alignment): https://youtu.be/Lx1jkr3UKwA
 
 Applied Bioinformatics Fall 23 (2 students)
+*Graduate Class (Masters & Ph.D. Level)
