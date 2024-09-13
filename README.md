@@ -25,4 +25,4 @@ Applied Bioinformatics Fall 2023 (2 students).
 https://www.claflin.edu/
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 
-Microarray-analysis.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, Fold-change analysis.
+Microarray-analysis.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
