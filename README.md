@@ -30,7 +30,7 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 
 Microarray-analysis.Rd: Microarray datasets reading, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, CreateSeuratObject, FeatureScatter, NormalizeData, reduce.dimensions, FindNeighbors, FindClusters, RunTSNE, RunUMAP, use.phate, get.species.cells, make_analysis_from_table, plotCurveHeatmaps, plotPseudoTime, runPseudoTimeDGE, runSlignshot, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, BGmix, ccParams, TailPP, ccTrace, histTailPP, write.csv, FDRplotTailPP, histccPred, plotFDR, plotPredChecks, exprSet). Tree.pdf
-
+Phylogenetic-Analysis.R
 https://www.java.com/
 https://www.php.net/
 https://www.mysql.com/
