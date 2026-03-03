@@ -3,7 +3,7 @@
 ![download](https://github.com/user-attachments/assets/ba3aa1ec-743f-4acf-b727-138220a32544)
 ^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
 [Applied Bioinformatics BIOL441 Fall 2023 4 Credit.](https://pawar1550.wixsite.com/claflin-courses/copy-of-applied-bioinformatics-biol44)
-
+Student Evaluations (2021-2026): https://www.claflin-computation.com/_files/ugd/81dd80_ae28e89ed22e41c39513d1764b5c9628.pdf
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 [R: affy, rBLAST, ape, phangorn, phytools, geiger].
 [Bioinformatics:](https://youtu.be/G6Xh9QJQrjA)
